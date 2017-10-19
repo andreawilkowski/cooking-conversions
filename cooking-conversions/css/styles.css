@@ -1,0 +1,28 @@
+.pounds-final {
+  display: none;
+
+}
+
+.week-final {
+  display: none;
+}
+
+.score-final {
+  display: none;
+}
+
+.well {
+  background-color: cyan;
+  color: magenta;
+}
+
+body {
+  background-color: salmon;
+  color: beige;
+  text-align: center;
+}
+
+marquee {
+  background-color: black;
+  color: #39FF14;
+}
